@@ -38,6 +38,7 @@ Python-Handson/
 │   └── class1.py           # Local execution counterpart
 └── README.md               # Project documentation
 
+```
 
 ---
 
@@ -136,5 +137,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 ---
 
 ⭐ *If you find this repository helpful, consider giving it a star!*
+
+```
 
 ```
