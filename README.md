@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Python Hands-On
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
