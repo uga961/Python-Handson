@@ -1,4 +1,4 @@
-# 🐍 Python Hands-On
+# Python Hands-On
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Open in Colab](https://img.shields.io/badge/Google%20Colab-Enabled-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
@@ -8,13 +8,13 @@ A structured, beginner-friendly repository dedicated to learning and mastering P
 
 ---
 
-## 📌 Overview
+## Overview
 
 **Python Hands-On** provides a clear, practice-first roadmap for learners building a foundational understanding of Python programming. Designed for both cloud-based execution via Google Colab and local workstation practice, this repository bridges theoretical concepts with real-world coding practice.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Interactive Learning:** Step-by-step Jupyter Notebooks tailored for guided exploration.
 * **Zero Setup Required:** Execute code seamlessly in the cloud using Google Colab.
@@ -23,7 +23,7 @@ A structured, beginner-friendly repository dedicated to learning and mastering P
 
 ---
 
-## 📂 Repository Architecture
+## Repository Architecture
 
 ```text
 Python-Handson/
@@ -37,7 +37,7 @@ Python-Handson/
 
 ---
 
-## 🛠️ Stack & Requirements
+## Stack & Requirements
 
 | Technology | Purpose |
 | --- | --- |
@@ -47,7 +47,7 @@ Python-Handson/
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### Option 1: Run via Google Colab *(Recommended)*
 
@@ -97,7 +97,7 @@ python Backup/class1.py
 
 ---
 
-## 🎯 Core Learning Objectives
+## Core Learning Objectives
 
 * **Core Fundamentals:** Variables, data structures, control flow, and functions.
 * **Logical Problem Solving:** Writing efficient, clean, and idiomatic Python.
@@ -105,7 +105,7 @@ python Backup/class1.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, enhancements, and suggestions are welcome!
 
@@ -117,7 +117,7 @@ Contributions, enhancements, and suggestions are welcome!
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vaddi Ugandhar**
 
@@ -128,7 +128,6 @@ Contributions, enhancements, and suggestions are welcome!
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for details.
-
 ---
 
 ⭐ *If you find this repository helpful, consider giving it a star!*
