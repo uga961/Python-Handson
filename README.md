@@ -130,7 +130,5 @@ Contributions, enhancements, and suggestions are welcome!
 Distributed under the MIT License. See `LICENSE` for details.
 
 ---
-
 ⭐ *If you find this repository helpful, consider giving it a star!*
-
 ```
