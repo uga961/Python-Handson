@@ -31,6 +31,8 @@ Python-Handson/
 ├── Class1.ipynb            # Interactive lesson notebook
 ├── Backup/                 # Native Python (.py) source scripts
 │   └── class1.py           # Local execution counterpart
+├── Assignments/            # Assignments to solve
+│   └── Day1 & 2.docx       # Day wise assignemnts
 └── README.md               # Project documentation
 
 ```
